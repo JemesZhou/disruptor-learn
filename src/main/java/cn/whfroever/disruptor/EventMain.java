@@ -5,10 +5,6 @@ import com.lmax.disruptor.EventHandler;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * @author wuhf
- * @Date 2018/8/14 17:27
- **/
 public class EventMain {
 
     public static void main(String[] args) throws Exception {

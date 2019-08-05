@@ -16,10 +16,6 @@ import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
 import java.util.concurrent.atomic.AtomicLong;
 
-/**
- * @author wuhf
- * @Date 2018/8/14 19:39
- **/
 public class DisruptorManager {
 
     private final static Logger LOG = LoggerFactory.getLogger(DisruptorManager.class);
